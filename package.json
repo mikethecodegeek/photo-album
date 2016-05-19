@@ -27,7 +27,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha ./test/**",
+    "test": "mocha test/**",
     "start": "node app.js"
   },
   "repository": {
@@ -37,7 +37,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mikethecodegeek/simple-ebay/issues"
+    "url": "https://github.com/mikethecodegeek/photo-album/issues"
   },
-  "homepage": "https://github.com/mikethecodegeek/simple-ebay#readme"
+  "homepage": "https://github.com/mikethecodegeek/photo-album#readme"
 }
